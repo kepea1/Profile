@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **on any react project!**
 
-- 🤝 I’m looking for help with [http.](http.)
+<!-- - 🤝 I’m looking for help with [http.](http.) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
