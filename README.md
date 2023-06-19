@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Top Trump Star wars](http.)
 
-- 🌱 I’m currently learning **React,**
+- 🌱 I’m currently learning **React,typescript,databases **
 
 - 👯 I’m looking to collaborate on **on any react project!**
 
