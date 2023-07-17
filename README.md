@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Top Trump Star Wars](https://top-trump-star-wars.vercel.app/)
 
-- 💻 1 week School Of Code Project [SocPal]([https://pawsforaffection.netlify.app/)](https://github.com/K-velvet-P/School-of-Code-1-Week-Project-Socpal-frontend) 
+- 💻 1 week School Of Code Project: [SocPal](https://github.com/K-velvet-P/School-of-Code-1-Week-Project-Socpal-frontend)]
   
-- 🐕 4 week School Of Code Project [Paws For Affection](https://pawsforaffection.netlify.app/) 
+- 🐕 4 week School Of Code Project: [Paws For Affection](https://pawsforaffection.netlify.app/) 
   
 - 🌱 I’m currently learning **React,typescript,databases **
 
