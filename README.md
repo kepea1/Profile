@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Top Trump Star Wars: - [App](https://top-trump-star-wars.vercel.app/)  - [Repo](https://github.com/K-velvet-P/TopTrumpStarWars)
 
-- 💻 1 week School Of Code Project SocPal: [Repo](https://github.com/K-velvet-P/School-of-Code-1-Week-Project-Socpal-frontend)
+- 💻 1 week School Of Code Project SocPal: - [Repo](https://github.com/K-velvet-P/School-of-Code-1-Week-Project-Socpal-frontend)
   
 - 🐕 4 week School Of Code Project Paws For Affection: - [App](https://pawsforaffection.netlify.app/),  - [Repo](https://github.com/K-velvet-P/TheHackitectsFinalProjects)
   
