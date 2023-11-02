@@ -9,8 +9,7 @@
 
 - 💻 1 week School Of Code Project: [SocPal](https://github.com/K-velvet-P/School-of-Code-1-Week-Project-Socpal-frontend)
   
-- 🐕 4 week School Of Code Project: [Paws For Affection](https://pawsforaffection.netlify.app/)
-- [Repo](https://github.com/K-velvet-P/TheHackitectsFinalProjects)
+- 🐕 4 week School Of Code Project: [Paws For Affection App](https://pawsforaffection.netlify.app/),[Repo](https://github.com/K-velvet-P/TheHackitectsFinalProjects)
   
 - 🌱 I’m currently learning **React,typescript,databases **
 
