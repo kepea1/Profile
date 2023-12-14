@@ -6,7 +6,7 @@
 
 <br>
 
-<h3 align="left">- 🔭 I’m currently working on:</h3>
+<h3 align="left"> 🔭 I’m currently working on:</h3>
  
 - Raena Cohen's EPK: - [App](https://raena-cohen-epk.vercel.app/)  - [Repo](https://github.com/K-velvet-P/Raena-Cohen-EPK)
 <br>
